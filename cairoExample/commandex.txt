@@ -1,0 +1,1000 @@
+vim prefs.ui 
+rm .prefs.ui.swp 
+vim prefs.ui 
+vim window.ui 
+ls
+./exampleapp window.ui 
+cd gtkNew/examples/application10
+vim exampleappwin.c
+ls
+vim prefs.ui 
+ls
+make -f Makefile.example 
+./exampleapp 
+ls
+vim prefs.ui 
+cd
+ls
+mkdir example
+cd example/
+vim BinTree.h
+vim BinTree.c
+sudo git clone http://github.com/dejavuwing/nele.git
+git
+git init
+ls -al
+cd wine/
+cd..
+cd
+ls
+cd works/
+git init
+git remote add origin "http://github.com/dhryu1992/mudGame"
+git pull origin master
+git add->git commit->git push
+git add
+ls
+cd mudGame/
+ls
+cat main.cpp 
+ㄴㄴㅊ갠ㄴ0727!
+ls
+vim builder.ui 
+git commit -m gtk
+git status
+git add
+git add mudGame
+ls
+git add ./
+git status
+git commit
+git config --list
+git commit -m "gtk"
+git push origin master
+rm .gtk.c.swp 
+git commit -m "gtk"
+git push origin master
+sudo apt-get install git-core
+sudo git config --global user.name
+sudo git config --global user.name dhryu1992
+칟ㅁㄱ
+clear
+sudo git config --global user.name "dhryu1992"
+sudo git config --global user.email "sscross0727@gmail.com"
+sudo git confog --global color.ui "auto"
+sudo git config --global user.ui "auto"
+sudo mkdir /works
+cd /works/
+sudo git clone https://github.com/dejavuwing/ngle.git
+sudo git fetch origin
+sudo git clone http://github.com/dejavuwing/nele.git
+ㅊㅇ
+ㅣㄴ
+cd
+ls
+mkdir works
+cd 
+cd works/
+sudo git clone https://github.com/dejavuwing/ngle.git
+git config --global user.name "dhryu1992"
+cd ..
+cd works/
+ls
+cd mudGame/
+vim readme
+vim gtk.c
+ls
+gcc `pkg-config --cflags gtk+-3.0` -o example-0 example-0.c `pkg-config --libs gtk+-3.0`
+ls
+gcc `pkg-config --cflags gtk+-3.0` -o gtk.c `pkg-config --libs gtk+-3.0`
+gcc `pkg-config --cflags gtk+-3.0` -o gtk gtk.c `pkg-config --libs gtk+-3.0`
+ls
+./g
+./gtk 
+vim gtk
+vim gtk.c
+gcc `pkg-config --cflags gtk+-3.0` -o gtk gtk.c `pkg-config --libs gtk+-3.0`
+vim gtk.c
+gcc `pkg-config --cflags gtk+-3.0` -o gtk gtk.c `pkg-config --libs gtk+-3.0`
+./gtk 
+vim gtk.c
+vim gtk1.c
+vim builder.ui
+gcc `pkg-config --cflags gtk+-3.0` -o gtk gtk.c `pkg-config --libs gtk+-3.0`
+gcc `pkg-config --cflags gtk+-3.0` -o gtk1 gtk1.c `pkg-config --libs gtk+-3.0`
+./gtk1
+vim gtk1
+vim gtk1.c
+vim gtk1
+gcc `pkg-config --cflags gtk+-3.0` -o gtk1 gtk1.c `pkg-config --libs gtk+-3.0`
+./gtk1
+vim gtk.c
+ls
+vim gtkNew/
+cd gtkNew/
+lks
+ls
+cd ..
+cd gtk
+ls
+cd 
+cd example/
+ls
+cd ..
+mkdir cairoExample
+cd cairoExample/
+vim hello.c
+ls
+If cairo is not installed to a system directory that pkg-config is aware of, then you will need to tell pkg-config about the directory by setting the PKG_CONFIG_PATH environment variable to point to the directo
+cc -o hello $(pkg-config --cflags --libs cairo) hello.c
+cc -o hello `pkg-config --cflags --libs cairo` hello.c
+export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig
+cc -o hello `pkg-config --cflags --libs cairo` hello.c
+vim hello.c
+sudo apt-get install libcaro2-dev
+sudo apt-get install libcairo2-dev
+cc -o hello `pkg-config --cflags --libs cairo` hello.c
+sudo apt-get install libcairo2-dev
+cc -o hello `pkg-config --cflags --libs cairo` hello.c
+ls
+cat hello.c 
+cc -o hello $(pkg-config --cflags --libs cairo) hello.c
+cc -o hello `pkg-config --cflags --libs cairo` hello.c
+cd ..
+ks
+ls
+main works/
+cd works/
+ls
+cd mudGame/
+ls
+cd main.c
+vim main.c
+cd cairoExample/
+vim hello.c 
+vim cairoTheory.txt
+cat cairoTheory.txt 
+vim cairoTheory.txt
+ls
+cd ..
+ls
+cd works/
+ls
+./mudGame/
+cd mudGame/
+ls
+main.cpp
+cat main.cpp 
+vim main.cpp 
+mv main.cpp main.c
+ls
+vim main.c 
+gcc -o main main.c
+vim main.c 
+gcc -o main main.c
+vim main.c 
+gcc -o main main.c
+./main 
+vim m
+vim main.c
+gcc -o main main.c
+./main 
+vim main.c
+gcc -o main main.c
+./main 
+cat main.c
+vim main.c
+gcc -o main main.c
+vim main.c
+gcc -o main main.c
+vim main.c
+gcc -o main main.c
+./main 
+cd ..
+cd mudGame/
+ls
+vim main.c
+gcc -o main main.c
+./main 
+vim main.c
+gcc -o main main.c
+./main 
+vim main.c
+./main 
+vim main
+vim main.c
+gcc -o main main.c
+vim main.c
+gcc -o main main.c
+./main 
+vim main.c
+gcc -o main main.c
+./main 
+vim main.c
+gcc -o main main.c
+vim main.c
+gcc -o main main.c
+vim main.c
+gcc -o main main.c
+vim main.c
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+vim main.c
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main \
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main 
+gcc -o main main.c
+./main
+gcc -o main main.c
+./main
+ls
+mkdi pkw
+mkdir pkw
+ls
+cd pkw/
+ls
+git
+git fetch
+ls
+git log
+git git config user.name "elcrity"
+git config user.name "elcrity"
+git config user.email "elcrity@naver.com"
+git log
+git fetch
+git config --list
+git clone https://github.com/elcrity/myparser
+ls
+cd myparser/
+ls
+gcc -o gettagnew gettagnew.c bodyelement.c headelement.c  function.c
+ls
+./gettagnew
+sudo ./gettagnew
+ls
+ls -al
+gcc -o gettagnew gettagnew.c bodyelement.c headelement.c  function.c
+vi gettagnew.c
+gcc -o gettagnew gettagnew.c bodyelement.c headelement.c  function.c
+vi gettagnew.c
+gcc -o gettagnew gettagnew.c bodyelement.c headelement.c  function.c
+./gettagnew 
+git clone https://github.com/elcrity/myparser
+ls
+rm myparser/
+mr -f my
+rm -f myparser/
+rm -r myparser/
+y
+ls
+cd ..
+ls
+rm myparser/
+rm -r myparser/
+ls
+cd myparser/
+ls
+cd ..
+rmdir myparser/
+rmdir -r myparser/
+rmdir -f myparser/
+ls myparser/
+ls
+rm myparser/y
+rm myparser/
+ls
+rmdir myparser/
+ls
+cd myparser/
+ls
+cd myparser/
+ls
+cd ..
+rmdir myparser/
+cd ..'
+rm -r myparser/
+y
+ls
+rm -r myparser/
+ls
+cd ..
+git clone https://github.com/elcrity/myparser
+rm -rf myparser/
+ls
+git clone https://github.com/elcrity/myparser
+cd myparser/
+ls
+./gettagnew 
+ls
+cd works/
+ls
+cd mudGame/
+ls
+sudo git add -A
+sudo git commit
+git status
+ls
+rm .main.c.swp 
+ls
+git status
+gid add
+git add
+git statusa
+git status
+git add ""
+git add " "
+git commit -m 
+git commit -m "game"
+git push origin master
+ls
+cd ..
+git status
+git commit -m "after game"
+git push -u origin master
+git push origin
+ls
+cd mudGame/
+ls
+cd ..
+git status
+git commit -m "testgit"
+git add "main.c"
+git add "./mudGame/main.c
+git add "./mudGame/main.c/
+git add "./mudGame/main.c"
+git commmit -m "after test"
+git com\mit -m "after test"
+git commit -m "after test"
+git push origin
+git status
+git init
+ls
+git add
+git add "main.c
+git add "main.c"
+git add ./
+git add ./mudGame/main.c
+git push
+cd mudGame/
+vim main.c
+cd ..
+git status
+git add *.c
+git commit -m "2020-7-29"
+git remote add origin
+git remote add origin "https://github.com/dhryu1992/mudGame.git"
+git push origin master
+git pull
+ls
+cd mudGame/
+ls
+cd ..
+git remote add origin "https://github.com/dhryu1992/mudGame.git"
+git commit -m "2020-7-29"
+git push origin master
+ubuntu-drivers devices
+sudo ubuntu-drivers autoinstall
+sudo apt install nvidia-340
+sudo add-apt-repository multiverse
+sudo apt install steam
+sudo gdebi steam.deb
+sudo dpkg --add-architecture i386
+sudo apt update
+sudo apt install wget gdebi-core libgl1-mesa-dri:i386 libgl1-mesa-glx:i386
+wget http://media.steampowered.com/client/installer/steam.deb
+sudo gdebi steam.deb
+sudo apt uninstall kakaotalk
+sudo wine-stable KakaoTalk_
+cd wine/
+ls
+sudo wine-stable KakaoTalk_Setup_\ 2.6.6.1809\ \(1\).exe 
+sudo wine-stable KakaoTalk_Setup.exe
+cd ..
+sudo wine-stable KakaoTalk_Setup.exe
+wine-stable KakaoTalk_Setup.exe 
+sudo uninstall steam
+dpkg --list
+sudo apt-get --purge remove steam:i386
+sudo apt-get --purge remove stream-launcher
+cd
+ls
+cd example/[B
+ls
+cd ..
+mkdir practice
+cd practice/
+vim SimpleAdder.cpp
+gcc -o SimpleAdder SimpleAdder.cpp 
+vim SimpleAdder.cpp
+sudo apt-get install g++
+g++ -o SimpleAdder SimpleAdder.cpp 
+./SimpleAdder 
+12.
+./SimpleAdder 
+vim BetweenAdder.cpp
+g++ -o BetweenAdder BetweenAdder.cpp 
+./BetweenAdder 
+vim BetweenAdder.cpp
+g++ -o BetweenAdder BetweenAdder.cpp 
+./BetweenAdder 
+vim BetweenAdder.cpp
+./BetweenAdder 
+vim BetweenAdder.cpp
+./BetweenAdder 
+vim StringIO.cpp
+g++ -o StringIO StringIO.cpp 
+vim StringIO.cpp
+g++ -o StringIO StringIO.cpp 
+./StringIO 
+vim FunctionOverloading.cpp
+g++ -o FunctionOverloading FunctionOverloading.cpp 
+./FunctionOverloading 
+ls
+vim DefaultValue1.cpp
+g++ -o DefaultValue1.cpp 
+g++ -o DefaultValue1 DefaultValue1.cpp 
+./DefaultValue1 
+g++ -o DefaultValue1.cpp 
+vim DefaultValue1.cpp
+g++ -o DefaultValue1.cpp 
+g++ -o DefaultValue1 DefaultValue1.c
+g++ -o DefaultValue1 DefaultValue1.cpp
+./DefaultValue1 
+vim DefaultVale3.cpp
+mv DefaultVale3.cpp DefaultValue3.cpp
+g++ -o DefaultValue3 DefaultValue3.cpp 
+./DefaultValue3 
+vim InlineFunc.cpp
+g++ -o InlineFunc InlineFunc.cpp 
+./InlineFunc 
+vim DefaultValue3.cpp 
+vim NameSp1.cpp
+mv NameSp1.cpp practice/
+ls
+cd practice/
+ls
+g++ -o NameSp1 NameSp1.cpp 
+./NameSp1 
+vim NameSp2.cpp
+cd ..
+cd shuGit/mugGame/
+ls
+vim globalVariable
+vim globalVariable.c
+cd
+cd gtk
+ls
+cd gtk-gtk-3-22/
+ls
+cd examples/
+cd application1
+ls
+vim exampleappwin.
+vim exampleappwin.c
+cd ..
+cd application2
+ls
+vim exampleapp.c
+g++ -o NameSp1 NameSp1.cpp 
+ls
+rm NameSp1
+cd practice/
+ls
+g++ -o NameSp2 NameSp2.cpp 
+./NameSp2 
+cd
+ls
+cd w
+cd works/
+ls
+cd mudGame/
+ls
+cd main.c
+vim main.c
+cd
+git status
+ls
+cd w
+cd works/
+git status
+git add .
+git commit -m "catching error"
+git log
+git push origin master
+git pull
+git 
+git init
+git add.
+git add .
+git commit .
+git push
+git push --set-upstream origin master
+git push
+git push origin master
+git log --graph
+git push origin master
+git push origin feaure_team __force
+Git push origin feature_team — force
+git push origin feature_team — force
+Git push origin master — force
+git push origin master — force
+sudo apt-get install git-core
+sudo git config --global user.name "dhryu1992"
+sudo git config --global user.email "sscross0727@gmail.com"
+sudo git config --global color.ui "auto"
+sudo git clone http://github.com/dhryu1992/mugGame.git
+git init
+vim README
+ls
+rm ngle
+rm -f ngle
+rm -m ngle
+rm
+cd ngle
+ls
+cd /..
+git add README
+cd works/
+git add README
+cd ..
+git config --list
+git config --global.name "dhryu1992"
+git config --global user.name "dhryu1992"
+git config --global user.email "sscross0727@gmail.com
+git config --global user.email "sscross0727@gmail.com"
+git config --global color.ui "auto"
+mkdir shugit
+sudo mkdir shuGit
+ls
+cd shuGit/
+git init
+sudo git init
+vim README
+git add README
+cd ..
+mkdir shu
+git status
+cd
+git statius
+git status
+git add
+git add /
+ls
+mkdir shuGit
+ls
+cd shuGit/
+git init
+vim README
+git add README
+ls
+git status
+git commit -m "making README"
+Git log
+git log
+git remote add origin http://github.com/dhryu1992/mugGame.git
+git push origin master
+git log
+git remote add origin http://github.com/dhryu1992/mugGame.git
+git push origin master
+ls
+cd ..
+mv 
+cd works/
+ls
+mv mudGame mugGame
+mv mugGame ..
+ls
+cd ..
+mv mugGame shuGit/
+git status
+cd shuGit/
+git statis
+git status
+git add mugGame/
+git status
+git commit -m "after moving"
+git push origin master
+git status
+ls
+cd mugGame/
+cd
+cd shuGit/mugGame/
+ls
+cd main.c
+vim main.c
+vim globalVariable.c
+g++ -o globalVariable globalVariable.c 
+vim globalVariable.c
+g++ -o globalVariable globalVariable.c 
+vim globalVariable.c
+g++ -o globalVariable globalVariable.c 
+./globalVariable 
+g++ -o globalVariable globalVariable.c 
+./globalVariable 
+cd ..
+cd
+ls
+cd shuGit/
+git status
+git commit -m 
+git commit -m "전역변수 실습"
+git status
+git add .
+git status
+git commit -m "전역변수 실습"
+git push origin master
+ls
+git status
+cd ..
+ls
+cd gtk
+ls
+gtk-gtk-3-22/
+cd gtk-gtk-3-22/
+ls
+cd examples/
+cd application1
+ls
+exampleapp.png
+ls
+vim exampleappwin.c
+make
+ls
+./exampleapp 
+vim exampleappwin.c
+cd ..
+ls
+application10
+cd application10
+ls
+./exampleapp 
+./exampleapp gears-menu.ui 
+vim exampleapp
+vim exampleappwin.c
+rm .exampleappwin.c.swp 
+vim exampleappwin.c
+slkdjfkl;sadjfkl;asdnk;lfsadjjfka
+cd 
+ls
+cd shuGit/
+ls
+git status
+ls
+sudo apt-get install update
+sudo apt-get install upgrade
+wine-stable KakaoTalk_Setup.exe 
+sudo apt-get install wine-stable cabextract
+WINEARCH=win32 WINEPREFIX=~/.wine wineboot
+wget https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks
+chmod +x winetricks
+./winetricks --optout
+ㅣㄴ
+ls
+mv alphademo.c cairoExample/
+cd cairoExample/
+ls
+gcc alphademo.c -o alphademo `pkg-config --libs --cflags gtk+-2.0 cairo`
+apt-get install libgtk-3-dev
+sudo apt-get install libgtk-3-dev
+gcc alphademo.c -o alphademo `pkg-config --libs --cflags gtk+-2.0 cairo`
+vim alphademo.c 
+ls
+vim cairoExample/
+cd cairoExample/
+vim example-1.c
+gcc `pkg-config --cflags gtk+-3.0` -o example-1 example-1.c `pkg-config --libs gtk+-3.0`
+./example-1 
+vim clipping.c
+gcc `pkg-config --cflags gtk+-3.0` -o clipping clipping.c\ `pkg-config --libs gtk+-3.0`
+gcc `pkg-config --cflags gtk+-3.0` -o clipping clipping.c`pkg-config --libs gtk+-3.0`
+gcc `pkg-config --cflags gtk+-3.0` -o clipping clipping.c` pkg-config --libs gtk+-3.0`
+gcc `pkg-config --cflags gtk+-3.0` -o clipping clipping.c `pkg-config --libs gtk+-3.0`
+./clipping 
+vim clipping.c
+gcc `pkg-config --cflags gtk+-3.0` -o clipping clipping.c `pkg-config --libs gtk+-3.0
+vim clipping.c
+./clipping 
+gcc `pkg-config --cflags gtk+-3.0` -o clipping clipping.c `pkg-config --libs gtk+-3.0
+gcc `pkg-config --cflags gtk+-3.0` -o clipping clipping.c `pkg-config --libs gtk+-3.0`
+./clipping 
+vim clipping.c
+gcc `pkg-config --cflags gtk+-3.0` -o clipping clipping.c `pkg-config --libs gtk+-3.0`
+vim clipping.c
+gcc `pkg-config --cflags gtk+-3.0` -o clipping clipping.c `pkg-config --libs gtk+-3.0`
+./clipping 
+vim clipping.c
+sudo apt-get install libcairo2-dev
+vim clipping.c
+gcc `pkg-config --cflags gtk+-3.0` -o clipping clipping.c `pkg-config --libs gtk+-3.0`
+./clipping 
+vim clipping.c
+gcc `pkg-config --cflags gtk+-3.0` -o clipping clipping.c `pkg-config --libs gtk+-3.0`
+./clipping 
+vim Mask.c
+gcc `pkg-config --cflags gtk+-3.0` -o Mask Mask.c `pkg-config --libs gtk+-3.0`
+./Mask 
+gcc `pkg-config --cflags gtk+-3.0` -o Mask Mask.c `pkg-config --libs gtk+-3.0`
+./Mask 
+vim Mask.c
+gcc `pkg-config --cflags gtk+-3.0` -o Mask Mask.c `pkg-config --libs gtk+-3.0`
+./Mask 
+vim operations.c
+gcc `pkg-config --cflags gtk+-3.0` -o operations operations.c `pkg-config --libs gtk+-3.0`
+./operations 
+ls
+gcc `pkg-config --cflags gtk+-3.0` -o clipping clipping.c `pkg-config --libs gtk+-3.0`
+./clipping 
+vim clipping.c
+gcc `pkg-config --cflags gtk+-3.0` -o clipping clipping.c `pkg-config --libs gtk+-3.0`
+./clipping 
+ls
+mv Mask.c mask.c
+vim mask.c 
+cd
+;s
+ls
+mv arin1.png cairoExample/
+cd cairoExample/
+vim mask.c 
+gcc `pkg-config --cflags gtk+-3.0` -o mask mask.c `pkg-config --libs gtk+-3.0`
+./mask 
+gcc `pkg-config --cflags gtk+-3.0` -o mask mask.c `pkg-config --libs gtk+-3.0`
+vim mask.c 
+gcc `pkg-config --cflags gtk+-3.0` -o mask mask.c `pkg-config --libs gtk+-3.0`
+./mask 
+gcc `pkg-config --cflags gtk+-3.0` -o mask mask.c `pkg-config --libs gtk+-3.0`
+vim mask.c 
+./mask 
+vim mask.c 
+gcc `pkg-config --cflags gtk+-3.0` -o mask mask.c `pkg-config --libs gtk+-3.0`
+./mask 
+vim mask.c 
+vim text.c
+gcc `pkg-config --cflags gtk+-3.0` -o text text.c `pkg-config --libs gtk+-3.0`
+vim text.c
+gcc `pkg-config --cflags gtk+-3.0` -o text text.c `pkg-config --libs gtk+-3.0`
+vim text.c
+cat /proc/cpuinfo
+lspci | grep -i VGA
+address sizes: 39 bits physical, 48 bi
+nvidia-smi --query | fgrep 'Product Name'
+ls
+cd cairoExample/
+vim pngImage.c
+gcc `pkg-config --cflags gtk+-3.0` -o pngImage pngImage.c `pkg-config --libs gtk+-3.0`
+./pngImage 
+vim pngImage
+vim pngImage.c
+vim pdfFile.c
+vim svgFile.c
+vim gtkWindow.c
+vim lines.c
+vim fillandstroke.c
+vim pendashes.c
+vim linecaps.c
+vim linearGradients.c
+vim pendashes.c
+vim make.txt
+cat make.txt 
+vim pendashes.c
+cat make.txt 
+vim make.txt 
+cat make.txt 
+vim soulmate.c
+vim pendashes.c
+vim make.txt 
+vim soulmate.c
+mv soulmate.c 
+rm soulmate.c 
+ls
+vim soulmate.c
+vim image.c
+cd ca
+cd cairoExample/
+ls
+gcc `pkg-config --cflags gtk+-3.0` -o text text.c `pkg-config --libs gtk+-3.0`
+gcc `pkg-config --cflags gtk+-3.0` -o pngImage pngImage.c `pkg-config --libs gtk+-3.0`
+./pngImage 
+gcc `pkg-config --cflags gtk+-3.0` -o pdfFile pdfFile.c `pkg-config --libs gtk+-3.0`
+./pdfFile 
+gcc `pkg-config --cflags gtk+-3.0` -o gtkWindow gtkWindow.c `pkg-config --libs gtk+-3.0`
+./gtkWindow 
+gcc `pkg-config --cflags gtk+-3.0` -o gtkWindow gtkWindow.c `pkg-config --libs gtk+-3.0`
+./gtkWindow 
+gcc `pkg-config --cflags gtk+-3.0` -o lines lines.c `pkg-config --libs gtk+-3.0`
+./lines 
+gcc `pkg-config --cflags gtk+-3.0` -o fillandstroke fillandstroke.c `pkg-config --libs gtk+-3.0`
+./fillandstroke 
+gcc `pkg-config --cflags gtk+-3.0` -o pendashes pendashes.c `pkg-config --libs gtk+-3.0`
+./pendashes 
+vim pendashes.c
+gcc `pkg-config --cflags gtk+-3.0` -o linecaps linecaps.c `pkg-config --libs gtk+-3.0`
+./linecaps 
+gcc `pkg-config --cflags gtk+-3.0` -o linecaps linecaps.c `pkg-config --libs gtk+-3.0`
+./linecaps 
+gcc `pkg-config --cflags gtk+-3.0` -o linearGradients linearGradients.c `pkg-config --libs gtk+-3.0`
+./linearGradients 
+gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`
+./soulmate 
+gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`
+./soulmate 
+gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`
+gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`\
+gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`
+./soulmate 
+ls
+gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`
+lglib-2.0gcc
+ls
+sudo install glib-2.0
+install --help
+sudo apt install glib-2.0
+gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`
+gcc `pkg-config --cflags gtk+-3.0` -o soulmate1 soulmate.c `pkg-config --libs gtk+-3.0`gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`
+apt install libglib2.0-dev pkg-config cmake
+apt install libglib2.0-dev pkg-config soulmate.c
+sudo apt install libglib2.0-dev pkg-config soulmate.c
+sudo apt install libglib2.0-dev pkg-config soulmate1
+gcc `pkg-config --cflags gtk+-3.0` -o soulmate1 soulmate.c `pkg-config --libs gtk+-3.0`gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`
+gcc -o soulmate soulmate.c 
+gcc -o soulmate soulmate.c g
+gcc -c soulmate.c
+gcc `pkg-config --cflags gtk+-3.0` -o soulmate1 soulmate.c `pkg-config --libs gtk+-3.0`gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`
+cat text.c 
+ls
+cat make.txt
+gcc `pkg-config --cflags gtk+-3.0` -o soulmate1 soulmate.c `pkg-config --libs gtk+-3.0`gcc `
+gcc `pkg-config --cflags gtk+-3.0 so[B `pkg-config --libs gtk+-3.0`
+gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`
+./soulmate 
+gcc `pkg-config --cflags gtk+-3.0` -o soulmate soulmate.c `pkg-config --libs gtk+-3.0`
+./soulmate 
+gcc `pkg-config --cflags gtk+-3.0` -o image image.c `pkg-config --libs gtk+-3.0`
+./image 
+ls
+./image 
+gcc `pkg-config --cflags gtk+-3.0` -o image image.c `pkg-config --libs gtk+-3.0`
+./image 
+gcc `pkg-config --cflags gtk+-3.0` -o image image.c `pkg-config --libs gtk+-3.0`
+./image 
+gcc `pkg-config --cflags gtk+-3.0` -o image image.c `pkg-config --libs gtk+-3.0`
+./image 
+gcc `pkg-config --cflags gtk+-3.0` -o image image.c `pkg-config --libs gtk+-3.0`
+./image 
+gcc `pkg-config --cflags gtk+-3.0` -o image image.c `pkg-config --libs gtk+-3.0`
+./image 
+gcc `pkg-config --cflags gtk+-3.0` -o image image.c `pkg-config --libs gtk+-3.0`
+./image 
+gcc `pkg-config --cflags gtk+-3.0` -o image image.c `pkg-config --libs gtk+-3.0`
+./image 
+gcc `pkg-config --cflags gtk+-3.0` -o image image.c `pkg-config --libs gtk+-3.0`
+./image 
+gcc `pkg-config --cflags gtk+-3.0` -o image image.c `pkg-config --libs gtk+-3.0`
+./image 
+dmesg | grep -E -i -B100 'killed process'
+출처: https://crmn.tistory.com/22 [크롬망간이 글 쓰는 공간]
+dmesg | grep -E -i -B100 'killed process'
+gcc `pkg-config --cflags gtk+-3.0` -o image image.c `pkg-config --libs gtk+-3.0`
+./image 
+gcc `pkg-config --cflags gtk+-3.0` -o image image.c `pkg-config --libs gtk+-3.0`
+./image 
+gcc `pkg-config --cflags gtk+-3.0` -o image image.c `pkg-config --libs gtk+-3.0`
+./image 
+gcc `pkg-config --cflags gtk+-3.0` -o image image.c `pkg-config --libs gtk+-3.0`
+./image 
+cd cairoExample/
+history
+history 1419
+history -w commandex.txt
