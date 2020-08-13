@@ -36,8 +36,10 @@ static void do_drawing(cairo_t *cr)
 
 void main (int argc, char *argv[])
 {
-	Array();	
 	
+	//printf("1\n");
+	Array();	
+	//printf("2\n");
 	GtkWidget *window;
 	GtkWidget *darea;
 
@@ -68,4 +70,3 @@ void main (int argc, char *argv[])
 
 	return 0;
 }
-

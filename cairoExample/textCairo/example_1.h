@@ -3,12 +3,15 @@
 #include <stdio.h>
 
 
-char Array();
+
 int i, a;
 char *text[10], *img[10]; 
-int k = 0;
-int t = 0;
+int k;
+int t;
 
-char *naver[10] = {"abcd", "dfer", "src", "arin.png", "google", "smart", "bag", "should", "good"};
+char *naver[10] = {"abcd", "dfer", "src", "arin.png", "google", "smart", "src", "arin1.png"};
+
+char Array();
+
 
 #endif
